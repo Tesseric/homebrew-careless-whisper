@@ -1,6 +1,6 @@
 cask "careless-whisper" do
   version "0.1.0"
-  sha256 "7d2ac48950fb9621c94f7f749674a14dfcfaaccd6a69f6573c63a24c7af5eb1c"
+  sha256 "52b3ecac81a81c880c60fd5416828c2ff5655cfa651a946df23ef7ebf47a9c26"
 
   url "https://github.com/Tesseric/careless-whisper/releases/download/v0.1.0/careless-whisper-0.1.0-macos.zip"
   name "Careless Whisper"
