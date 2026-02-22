@@ -1,8 +1,8 @@
 cask "careless-whisper" do
-  version "0.1.1"
-  sha256 "ab4cf919c202fa41fac4808c955a2feb44fd5df7be2a7c3ef50d58deaf39dd03"
+  version "0.1.2"
+  sha256 "a698c8a840a2c408a001f7c178341e24f3946de871c1476c123d57f7a8149454"
 
-  url "https://github.com/Tesseric/careless-whisper/releases/download/v0.1.1/careless-whisper-0.1.1-macos.zip"
+  url "https://github.com/Tesseric/careless-whisper/releases/download/v0.1.2/careless-whisper-0.1.2-macos.zip"
   name "Careless Whisper"
   desc "Local push-to-talk voice-to-text for macOS"
   homepage "https://github.com/Tesseric/careless-whisper"
